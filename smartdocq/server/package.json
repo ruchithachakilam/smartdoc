@@ -27,7 +27,8 @@
     "nanoid": "^5.0.7",
     "openai": "^5.23.2",
     "pdf-parse": "^1.1.1",
-    "pdfjs-dist": "^2.16.105"
+    "pdfjs-dist": "^2.16.105",
+    "react-markdown": "^10.1.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
